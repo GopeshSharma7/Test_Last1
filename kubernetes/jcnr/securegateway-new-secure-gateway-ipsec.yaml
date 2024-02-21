@@ -47,4 +47,4 @@ spec:
     type: ipsec-service
 status:
   observation: ""
-  state: ""
+  state: Success
